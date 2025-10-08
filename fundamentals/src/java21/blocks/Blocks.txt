@@ -1,0 +1,12 @@
+Instance Block:
+Instance block is similar to method which has no name, it can be written inside a class only but not inside a method.
+It always executed before the constructor.
+We can use variable only inside the instance block not method.
+We write time consuming code inside an instance block like - JDBC connectivity.
+
+Static Block:
+It is such kind of block in java which gets executed at the time of loading the .class file into JVM memory.
+
+Local Block:
+It is a group of statements enclosed within curly braces {} that can appear inside a method, constructor, or initializer.
+It is mainly used to limit the scope of variables to that specific block — once the block ends, those variables are destroyed.

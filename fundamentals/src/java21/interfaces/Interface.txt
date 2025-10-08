@@ -1,0 +1,5 @@
+Interface:
+It is just like a class which contains only abstract method, to achieve interface java precedes a keyword called implements.
+Interface methods are default, public and abstract.
+Interface variables are static and final.
+Interface method must be overridden inside the implementing classes.

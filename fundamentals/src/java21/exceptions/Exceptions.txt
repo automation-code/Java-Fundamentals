@@ -1,0 +1,14 @@
+Throw keyword is used to throw an exception object explicitly.
+Throw keyword always present inside method.
+We can throw only one exception at a time.
+Throw is followed by an instance.
+
+Throws keyword is used to declare an exception as well as by pass the caller.
+Throws keyword always used with method signature.
+We can handle multiple exception using throws keyword.
+Throws is followed by a class.
+
+Try block - try is a block that contains only risky code.
+Catch block - it is used to handle the exception.
+Finally block - It is a real-time block and the main purpose of finally block to handle the resources.
+

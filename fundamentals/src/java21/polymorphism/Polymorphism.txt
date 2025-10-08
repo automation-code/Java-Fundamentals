@@ -1,0 +1,7 @@
+Polymorphism - Same object having different behavior.
+
+Compile Time - It is exists at the time of compile time and also known as early binding or static polymorphism.
+Example: Method Overloading
+
+Run Time - It exists at the time of execution of program is called runtime polymorphism.
+Example: Method Overriding

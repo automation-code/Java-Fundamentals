@@ -1,0 +1,9 @@
+StringBuilder to demonstrate its mutability and efficiency
+StringBuilder is mutable, meaning it can be changed after it is created
+StringBuilder is not synchronized, meaning it is not thread-safe
+StringBuilder is faster than StringBuffer and String when concatenating strings in a loop
+
+StringBuffer is mutable, meaning it can be changed after it is created
+StringBuffer is synchronized, meaning it is thread-safe
+StringBuffer is slower than StringBuilder, but faster than String when concatenating strings in a loop
+

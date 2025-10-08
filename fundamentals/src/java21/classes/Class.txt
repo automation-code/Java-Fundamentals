@@ -1,0 +1,9 @@
+Collection of objects, variables and methods is called class. It is a logical entity.
+Class can also be defined as a blueprint from which you can create an individual object.
+Class doesn't consume any space.
+
+Inner Class:
+An inner class is defined within another class and can access all members (even private ones) of the outer class.
+
+Outer Class:
+The outer class is the top-level class that can contain: Fields, Methods, Constructors, Inner classes.

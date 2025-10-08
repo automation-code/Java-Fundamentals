@@ -1,0 +1,70 @@
+# OS Specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+Icons?
+
+# JetBrains IDEs
+.idea/
+.idea_modules/
+*~
+*.old
+*.iml
+*.iws
+out/
+
+# Eclipse IDE
+.project
+.classpath
+.settings/
+bin/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*.log
+replay_pid*.log
+*.log
+
+# Drivers and binaries
+*.exe
+*.dll
+*.dylib
+*.lib
+drivers/
+binaries/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.swo
+*.orig
+temp/
+tmp/
+cache/
+logs/
+
+# Build directories
+build/
+dist/
+target/
+
+
+
+
+
