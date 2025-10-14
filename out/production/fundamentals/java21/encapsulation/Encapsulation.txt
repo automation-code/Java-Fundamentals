@@ -1,0 +1,7 @@
+Encapsulation:
+Binding code and data together into a single unit are known as encapsulation.
+Class variables/attributes should be as a private.
+Class method should be as a public.
+Provide public get and set methods to access and update the value of a private variable.
+Private variables can only be accessed within the same class.
+The get method returns the variable value, and the set method sets the value.

@@ -1,0 +1,8 @@
+Conditional Statement
+if statement is used to test the condition. It checks boolean condition: true or false.
+if statement
+if-else statement
+if-else-if ladder
+nested if statement
+
+Switch statement executes one statement from multiple conditions.

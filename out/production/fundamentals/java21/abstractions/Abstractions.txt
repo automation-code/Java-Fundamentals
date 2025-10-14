@@ -1,0 +1,26 @@
+It is a process where you show only “relevant” data and “hide” unnecessary details of an object from the user.
+
+Advantages
+Security
+Enhancement
+
+Types of Implementation for Abstraction
+Abstract Class
+Interface
+
+Abstract Class - A class which contains the abstract keyword in its declaration is called abstract class.
+We can't create object for abstract class.
+It may or may not contain methods.
+It can have abstract and non-abstract methods.
+To use an abstract class you have to inherit it from sub class.
+If a class contain partial implementation then we should declare a class as abstract.
+
+Abstract Method - A method which contain abstract modifier at the time of declaration is called abstract method.
+It can only be used in abstract class.
+It doesn’t contain only body {} and always ends with ";"
+Abstract method must be overridden in sub-classes otherwise it will also become an abstract class.
+Whenever the action is common but implementation are different then we should use abstract method.
+
+
+
+

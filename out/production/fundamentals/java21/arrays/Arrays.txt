@@ -1,0 +1,38 @@
+Array is collection elements of same data type (Homogenios data).
+We can store multiple same values into a single variable.
+
+Single dimensional
+
+int x[] = new int[10];
+int []x = new int[10];
+int x[] = {100,200,300,400,500};
+
+Store Hetrogenios data (We can store multiple different values into a single variable).
+
+Object x[] = new Object[10];
+x[0] = 100;
+x[1] = "Welcome";
+x[2] = 10.5;
+x[3] = true;
+x[4] = 'A';
+
+Object x[] = {100,"Welcome",10.5,true,'A'}
+
+
+Two dimensional/Multi-dimensional
+
+Example: int x[][] = new int[rows][columns];
+
+int x[][] = new int[3][2];
+x[0][0] = 100;
+x[0][1] = 200;
+
+x[1][0] = 300;
+x[1][1] = 400;
+
+x[2][0] = 500;
+x[2][1] = 600;
+
+
+int x[][] = {{100,200},{300,400},{500,600}};
+

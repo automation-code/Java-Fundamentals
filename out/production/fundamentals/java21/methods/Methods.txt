@@ -1,0 +1,8 @@
+Method name can be anything
+Method may or may not return a value
+If method is not return any value then specify void
+Method can take parameters/arguments
+
+A final method cannot be overridden by subclasses.
+This is useful when you want to ensure that the method's behavior remains consistent
+

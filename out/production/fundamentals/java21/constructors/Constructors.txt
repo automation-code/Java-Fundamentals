@@ -1,0 +1,12 @@
+Constructor is a special type of method whose name is same as class name.
+The main purpose of constructor is initializing the object.
+Every java class has a constructor.
+A constructor is automatically called at the time of object creation.
+A constructor never contains any return type including void.
+
+Types of constructors
+---------------------
+private constructor - According to the rule we can't access private constructor outside of class.
+default constructor - Does not have any parameter is called default constructor.
+parameterized constructor - We can pass one or more parameters through the parameterized constructor.
+copy constructor - When pass object reference to the constructor then it is called copy constructor.
