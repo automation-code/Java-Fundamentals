@@ -1,0 +1,48 @@
+Collection is a framework that provides an architecture to store and manipulate the group of objects.
+Collections can achieve all the operations that you perform on a data such as searching, sorting, insertion, manipulation, and deletion.
+Collection framework provides many interfaces (Set, List, Queue, Deque),
+and classes (ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet).
+
+ArrayList class uses a dynamic array for storing the elements.
+It is like an array, but there is no size limit.
+We can add or remove elements any time, it is much more flexible than the traditional array.
+
+ArrayList class can contain duplicate elements.
+ArrayList class allow multiple null values.
+ArrayList class maintains insertion order.
+ArrayList class is non synchronized.
+
+HashSet class is used to create a collection that uses a hash table for storage.
+It inherits the AbstractSet class and implements Set interface.
+
+HashSet can not contain duplicate elements.
+HashSet allow only single null value, multiple null value are not allow.
+HashSet class is non synchronized.
+HashSet doesn't maintain the insertion order.
+HashSet is the best approach for search operations.
+
+TreeSet class implements the Set interface that uses a tree for storage.
+
+Java TreeSet class contains unique elements only like HashSet.
+Java TreeSet class doesn't allow null element.
+Java TreeSet class is non synchronized.
+Java TreeSet class maintains ascending order.
+
+HashMap class implements the Map interface which allows us to store key and value pair, where keys should be unique.
+If you try to insert the duplicate key, it will replace the element of the corresponding key.
+It is easy to perform operations using the key index like updation, deletion, etc.
+
+Java HashMap contains values based on the key.
+Java HashMap contains only unique keys.
+Java HashMap may have one null key and multiple null values.
+Java HashMap is non synchronized.
+Java HashMap maintains no order.
+
+TreeMap class is a red-black tree based implementation.
+
+It provides an efficient means of storing key-value pairs in sorted order.
+TreeMap contains values based on the key.
+TreeMap contains only unique elements.
+TreeMap cannot have a null key but can have multiple null values.
+TreeMap is non synchronized.
+TreeMap maintains ascending order.
